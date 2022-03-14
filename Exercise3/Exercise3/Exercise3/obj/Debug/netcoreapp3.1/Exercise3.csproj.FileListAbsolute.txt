@@ -1,0 +1,14 @@
+C:\Users\Orkhan\OneDrive\Desktop\Task.cs\Exercise3\Exercise3\Exercise3\bin\Debug\netcoreapp3.1\Exercise3.exe
+C:\Users\Orkhan\OneDrive\Desktop\Task.cs\Exercise3\Exercise3\Exercise3\bin\Debug\netcoreapp3.1\Exercise3.deps.json
+C:\Users\Orkhan\OneDrive\Desktop\Task.cs\Exercise3\Exercise3\Exercise3\bin\Debug\netcoreapp3.1\Exercise3.runtimeconfig.json
+C:\Users\Orkhan\OneDrive\Desktop\Task.cs\Exercise3\Exercise3\Exercise3\bin\Debug\netcoreapp3.1\Exercise3.runtimeconfig.dev.json
+C:\Users\Orkhan\OneDrive\Desktop\Task.cs\Exercise3\Exercise3\Exercise3\bin\Debug\netcoreapp3.1\Exercise3.dll
+C:\Users\Orkhan\OneDrive\Desktop\Task.cs\Exercise3\Exercise3\Exercise3\bin\Debug\netcoreapp3.1\Exercise3.pdb
+C:\Users\Orkhan\OneDrive\Desktop\Task.cs\Exercise3\Exercise3\Exercise3\obj\Debug\netcoreapp3.1\Exercise3.csproj.AssemblyReference.cache
+C:\Users\Orkhan\OneDrive\Desktop\Task.cs\Exercise3\Exercise3\Exercise3\obj\Debug\netcoreapp3.1\Exercise3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orkhan\OneDrive\Desktop\Task.cs\Exercise3\Exercise3\Exercise3\obj\Debug\netcoreapp3.1\Exercise3.AssemblyInfoInputs.cache
+C:\Users\Orkhan\OneDrive\Desktop\Task.cs\Exercise3\Exercise3\Exercise3\obj\Debug\netcoreapp3.1\Exercise3.AssemblyInfo.cs
+C:\Users\Orkhan\OneDrive\Desktop\Task.cs\Exercise3\Exercise3\Exercise3\obj\Debug\netcoreapp3.1\Exercise3.csproj.CoreCompileInputs.cache
+C:\Users\Orkhan\OneDrive\Desktop\Task.cs\Exercise3\Exercise3\Exercise3\obj\Debug\netcoreapp3.1\Exercise3.dll
+C:\Users\Orkhan\OneDrive\Desktop\Task.cs\Exercise3\Exercise3\Exercise3\obj\Debug\netcoreapp3.1\Exercise3.pdb
+C:\Users\Orkhan\OneDrive\Desktop\Task.cs\Exercise3\Exercise3\Exercise3\obj\Debug\netcoreapp3.1\Exercise3.genruntimeconfig.cache
